@@ -1,0 +1,14 @@
+/Users/ingridalcalde/Desktop/lloyd-dev/CmdApi/bin/Debug/netcoreapp2.2/CmdApi.deps.json
+/Users/ingridalcalde/Desktop/lloyd-dev/CmdApi/bin/Debug/netcoreapp2.2/CmdApi.runtimeconfig.json
+/Users/ingridalcalde/Desktop/lloyd-dev/CmdApi/bin/Debug/netcoreapp2.2/CmdApi.runtimeconfig.dev.json
+/Users/ingridalcalde/Desktop/lloyd-dev/CmdApi/bin/Debug/netcoreapp2.2/CmdApi.dll
+/Users/ingridalcalde/Desktop/lloyd-dev/CmdApi/bin/Debug/netcoreapp2.2/CmdApi.pdb
+/Users/ingridalcalde/Desktop/lloyd-dev/CmdApi/obj/Debug/netcoreapp2.2/CmdApi.csprojAssemblyReference.cache
+/Users/ingridalcalde/Desktop/lloyd-dev/CmdApi/obj/Debug/netcoreapp2.2/CmdApi.csproj.CoreCompileInputs.cache
+/Users/ingridalcalde/Desktop/lloyd-dev/CmdApi/obj/Debug/netcoreapp2.2/CmdApi.RazorAssemblyInfo.cache
+/Users/ingridalcalde/Desktop/lloyd-dev/CmdApi/obj/Debug/netcoreapp2.2/CmdApi.RazorAssemblyInfo.cs
+/Users/ingridalcalde/Desktop/lloyd-dev/CmdApi/obj/Debug/netcoreapp2.2/CmdApi.AssemblyInfoInputs.cache
+/Users/ingridalcalde/Desktop/lloyd-dev/CmdApi/obj/Debug/netcoreapp2.2/CmdApi.AssemblyInfo.cs
+/Users/ingridalcalde/Desktop/lloyd-dev/CmdApi/obj/Debug/netcoreapp2.2/CmdApi.RazorTargetAssemblyInfo.cache
+/Users/ingridalcalde/Desktop/lloyd-dev/CmdApi/obj/Debug/netcoreapp2.2/CmdApi.dll
+/Users/ingridalcalde/Desktop/lloyd-dev/CmdApi/obj/Debug/netcoreapp2.2/CmdApi.pdb
